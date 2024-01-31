@@ -5,7 +5,11 @@ I am a sophomore studing computer science at New Jersey Institute of Technology.
 projects whenever I can!<br>
 <h3>How I started</h3>
 I have been into computer science since about 7th grade. I started with web development but I realized
-I prefer more back end stuff.
+I prefer more back end stuff. I love making projects with python or java and enjoy figuring out the 
+logic behind it.
+<h3>Now</h3>
+Currently I am learning scripting in Linux and Bash as well as working on advancing my web development
+skills
 <h3>Skills</h3>
 <ul>
   <li>Web Development(HTML, CSS)</li>
