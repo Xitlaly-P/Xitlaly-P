@@ -18,6 +18,7 @@ skills
   <li>Python</li>
   <li>C++</li>
   <li>Arduino/Pi</li>
+  <li>SQL</li>
 </ul>
 
 <!---
