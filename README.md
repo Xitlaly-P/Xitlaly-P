@@ -8,8 +8,7 @@ I have been into computer science since about 7th grade. I started with web deve
 I prefer more back end stuff. I love making projects with python or java and enjoy figuring out the 
 logic behind it.
 <h3>Now</h3>
-Currently I am learning scripting in Linux and Bash as well as working on advancing my web development
-skills
+Currently I am working on my fullstack web application skills and hope to learn new frameworks.
 <h3>Skills</h3>
 <ul>
   <li>Web Development(HTML, CSS)</li>
