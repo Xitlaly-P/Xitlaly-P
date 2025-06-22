@@ -1,4 +1,5 @@
 <h2>Hi I'm Xitlaly!</h2>
+<p><a href="https://yourwebsite.com" target="_blank">Visit my personal website</a></p>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/874323cf-a73c-42fe-9b95-2fcc42a97331/d86k5xq-78e31e93-9360-4e32-b6fa-67ee63625f19.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3NDMyM2NmLWE3M2MtNDJmZS05Yjk1LTJmY2M0MmE5NzMzMVwvZDg2azV4cS03OGUzMWU5My05MzYwLTRlMzItYjZmYS02N2VlNjM2MjVmMTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KlRTPO9xkV0yX2TT16pgANFPCkZJ5ZW3HzWgfBSRQ6o" width="190" align="right">
 <h3>Intro</h3>
 I am a senior studying computer science at New Jersey Institute of Technology. I hope to one day work somewhere where my code has an impact but for now I love making random
